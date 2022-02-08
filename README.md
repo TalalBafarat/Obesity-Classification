@@ -1,6 +1,6 @@
 # Obesity-Classification
-Contribution:
-Bassel Aldroubi, 
-Mohammed Alhabbash, 
-Talal Bafarat, 
-Paper: https://docs.google.com/document/d/1gpbdGtfT9a4ORsc_3IB35ONyKbmgq8lX/edit?usp=sharing&ouid=102725914137395760196&rtpof=true&sd=true
+Contribution:<br>
+-Bassel Aldroubi<br> 
+-Mohammed Alhabbash<br> 
+-Talal Bafarat<br> 
+Paper: https://drive.google.com/file/d/1KiaSyp2COgF7nGMGTS3A028HWyDQ-SJh/view?usp=sharing
